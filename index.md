@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 刘明泽的个人简历
 
 You can use the [editor on GitHub](https://github.com/Lmz129216/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
